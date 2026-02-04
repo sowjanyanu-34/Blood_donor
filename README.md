@@ -60,16 +60,12 @@ Blood-Donor-system/
 6. Open `search.html` to find registered donors by selecting a blood group.
 7. Matching donor details will be displayed instantly.
 
-## Demo
 
-https://blood-donor-web-app.netlify.app/search
 
    
 
 ### 🧾 Clone the repository
 ```bash
-git clone https://github.com/Pavitra672/Blood-Donor-system.git
+git clone https://github.com/sowjanyanu-34/Blood-Donor-system.git
 
-## Demo
 
-https://blood-donor-web-app.netlify.app/search
