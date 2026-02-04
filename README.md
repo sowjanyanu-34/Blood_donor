@@ -62,14 +62,14 @@ Blood-Donor-system/
 
 
 
+### Demo
+[https://blood-donor-web-app.netlify.app](https://blood-donor-web-app.netlify.app/)
+
    
 
 ### 🧾 Clone the repository
 ```bash
 git clone (https://github.com/sowjanyanu-34/Blood_donor.git)
 
-
-### Demo
-[https://blood-donor-web-app.netlify.app](https://blood-donor-web-app.netlify.app/)
 
 
