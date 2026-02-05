@@ -1,4 +1,4 @@
-🩸 Blood Donor System
+###🩸 Blood Donor System
 
 A simple, responsive, and user-friendly web application that allows users to register as blood donors and helps others search for donors by blood group.
 This project is suitable for college mini-projects, portfolio showcasing, and beginner-level web development practice.
@@ -6,7 +6,7 @@ This project is suitable for college mini-projects, portfolio showcasing, and be
 Live Demo:
 https://blood-donor-web-app.netlify.app
 
-📌 Project Overview
+##📌 Project Overview
 
 The Blood Donor System provides an easy way to manage donor information and quickly find donors during emergencies.
 It uses the browser’s localStorage to store donor data, eliminating the need for a backend server.
