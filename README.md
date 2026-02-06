@@ -1,4 +1,4 @@
-🩸 Blood Donor System
+🩸 Blood Donor System:
 
 A simple, responsive, and user-friendly web application that allows users to register as blood donors and helps others search for donors by blood group.
 This project is suitable for college mini-projects, portfolio showcasing, and beginner-level web development practice.
