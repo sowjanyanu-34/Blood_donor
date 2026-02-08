@@ -4,7 +4,7 @@ A simple, responsive, and user-friendly web application that allows users to reg
 This project is suitable for college mini-projects, portfolio showcasing, and beginner-level web development practice.
 
 Live Demo:
-https://blood-donor-web-app.netlify.app
+[Live Demo](https://blood-donor-web-app.netlify.app)
 
 📌 Project Overview
 
