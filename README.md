@@ -6,12 +6,12 @@ This project is suitable for college mini-projects, portfolio showcasing, and be
 Live Demo:
 [Live Demo](https://blood-donor-web-app.netlify.app)
 
-📌 Project Overview
+📌 Project Overview:
 
 The Blood Donor System provides an easy way to manage donor information and quickly find donors during emergencies.
 It uses the browser’s localStorage to store donor data, eliminating the need for a backend server.
 
-✨ Features
+✨ Features:
 🧑‍⚕️ Donor Registration
 
 Users can register by providing:
@@ -28,7 +28,7 @@ City
 
 Donor details are stored locally using localStorage.
 
-🔍 Search Donors
+🔍 Search Donors:
 
 Search donors by blood group
 
